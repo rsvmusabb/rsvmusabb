@@ -1,15 +1,15 @@
 <div align="center">
 
   <!-- DYNAMIC AESTHETIC WAVING HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hello%20World!%20I'm%20Musabb&fontSize=42&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hello%20World!%20I'm%20Musa%20Abdul%20Jabbar&fontSize=38&fontColor=fff&animation=twinkling" width="100%"/>
 
   <!-- TYPING EFFECT -->
   <a href="https://github.com/rsvmusabb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=550&lines=Software+Engineer;AI+%26+Automation+Developer;Full-Stack+Architect;Building+Modern+%26+Intelligent+Systems+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Software+Engineer;AI+%26+Automation+Enthusiast;Crafting+Modern+%26+Scalable+Web+Systems+✨" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <em>Passionate about crafting intelligent AI agents, clean architecture, and modern scalable web applications.</em>
+    <em>Full-Stack Developer passionate about crafting modern web ecosystems, AI agents, and high-performance clean architecture.</em>
   </p>
 
 </div>
@@ -19,16 +19,16 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Muhammad Musabb
-role: Software Engineer & AI Developer
+name: Musa Abdul Jabbar
+role: Full-Stack Developer
 location: Indonesia 🇮🇩
-passion: Clean Code, AI Agents, Modular Architecture & System Design
-current_focus: Building autonomous AI desktop assistants & scalable full-stack ecosystems
+passion: Clean Architecture, Full-Stack Development & AI Integration
+current_focus: Building scalable web applications & intelligent desktop companions
 motto: "Keep learning, keep building, keep innovating."
 ```
 
 - 🔭 **Currently Building:** [Claryn AI](https://github.com/rsvmusabb/agent-claryn) — *Generative AI Desktop Assistant with Multi-Modal Vision & OS Control.*
-- 🧠 **Interests:** Generative AI, Large Language Models, System Architecture, Automation, and Web Development.
+- 🚀 **Core Expertise:** Modern Full-Stack Development (Frontend, Backend, APIs, Databases) & AI Automation.
 - ⚡ **Fun Fact:** I believe clean, modular code is a form of art.
 
 ---
@@ -38,8 +38,8 @@ motto: "Keep learning, keep building, keep innovating."
 <div align="left">
 
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
