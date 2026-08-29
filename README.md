@@ -16,6 +16,14 @@
 
 ---
 
+### 🏆 3D GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=rsvmusabb&theme=onedark&no-bg=true&margin-w=4" alt="3D GitHub Trophies" width="100%"/>
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 ```yaml
@@ -63,11 +71,19 @@ motto: "Keep learning, keep building, keep innovating."
 
 ---
 
+### 🏙️ 3D Isometric Contribution City
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contribution Graph (Night View)" onerror="this.style.display='none'"/>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsvmusabb&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5c2e7&icon_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="155" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsvmusabb&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f5c2e7&currStreakNum=cdd6f4" height="155" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rsvmusabb&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f5c2e7&currStreakNum=cdd6f4" height="155" alt="GitHub Streak"/>
 </div>
 
 ---
