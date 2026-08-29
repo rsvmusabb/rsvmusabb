@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- DYNAMIC AESTHETIC WAVING HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hello%20World!%20I'm%20Musa%20Abdul%20Jabbar&fontSize=38&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hello+World!+I+am+Musa+Abdul+Jabbar&fontSize=36&fontColor=fff&animation=twinkling" width="100%"/>
 
   <!-- TYPING EFFECT -->
-  <a href="https://github.com/rsvmusabb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Software+Engineer;AI+%26+Automation+Enthusiast;Crafting+Modern+%26+Scalable+Web+Systems+✨" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;AI+and+Automation+Enthusiast;Crafting+Scalable+Web+Systems" alt="Typing SVG" />
+  </p>
 
   <p align="center">
     <em>Full-Stack Developer passionate about crafting modern web ecosystems, AI agents, and high-performance clean architecture.</em>
@@ -66,8 +66,8 @@ motto: "Keep learning, keep building, keep innovating."
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsvmusabb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=f5c2e7&icon_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsvmusabb&layout=compact&theme=tokyonight&hide_border=true&title_color=f5c2e7&text_color=cdd6f4&bg_color=181825" height="155"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsvmusabb&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5c2e7&icon_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsvmusabb&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f5c2e7&currStreakNum=cdd6f4" height="155" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@ motto: "Keep learning, keep building, keep innovating."
 <div align="center">
 
   <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=90&section=footer" width="100%"/>
 
   <p>⭐ <em>Thanks for visiting my GitHub profile! Feel free to explore my repositories.</em></p>
 
