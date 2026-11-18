@@ -5,7 +5,7 @@
 
   <!-- TYPING EFFECT -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;AI+and+Automation+Enthusiast;Crafting+Scalable+Web+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5C2E7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Agent+Builder;WhatsApp+Bot+Developer;Crafting+Scalable+Web+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -29,15 +29,32 @@
 ```yaml
 name: Musa Abdul Jabbar
 role: Full-Stack Developer
-location: Indonesia 🇮🇩
+university: Universitas Gunadarma — Informatics, Class 2IA13
+location: Bekasi, Indonesia 🇮🇩
 passion: Clean Architecture, Full-Stack Development & AI Integration
-current_focus: Building scalable web applications & intelligent desktop companions
+current_focus: WhatsApp bots, AI agents & intelligent desktop companions
 motto: "Keep learning, keep building, keep innovating."
 ```
 
 - 🔭 **Currently Building:** [Claryn AI](https://github.com/rsvmusabb/agent-claryn) — *Generative AI Desktop Assistant with Multi-Modal Vision & OS Control.*
+- 🤖 **Also Building:** [BOTWATSAP](https://github.com/rsvmusabb/dhoells-wabot) — *High-performance WhatsApp bot (Baileys, Gemini Vision, neural TTS, RPG engine).*
+- 📱 **Mobile:** [VClass Mobile](https://github.com/rsvmusabb/VclassApk) — *VCLASS Android app, with a Moodle submission library ([vclass-submit](https://github.com/rsvmusabb/vclass-submit)).*
 - 🚀 **Core Expertise:** Modern Full-Stack Development (Frontend, Backend, APIs, Databases) & AI Automation.
 - ⚡ **Fun Fact:** I believe clean, modular code is a form of art.
+
+---
+
+### ⭐ Featured Projects
+
+<div align="center">
+
+[![dhoells-wabot](https://github-readme-stats.vercel.app/api/pin/?username=rsvmusabb&repo=dhoells-wabot&theme=tokyonight&hide_border=true)](https://github.com/rsvmusabb/dhoells-wabot)
+[![agent-claryn](https://github-readme-stats.vercel.app/api/pin/?username=rsvmusabb&repo=agent-claryn&theme=tokyonight&hide_border=true)](https://github.com/rsvmusabb/agent-claryn)
+
+[![vclass-submit](https://github-readme-stats.vercel.app/api/pin/?username=rsvmusabb&repo=vclass-submit&theme=tokyonight&hide_border=true)](https://github.com/rsvmusabb/vclass-submit)
+[![VclassApk](https://github-readme-stats.vercel.app/api/pin/?username=rsvmusabb&repo=VclassApk&theme=tokyonight&hide_border=true)](https://github.com/rsvmusabb/VclassApk)
+
+</div>
 
 ---
 
@@ -48,7 +65,9 @@ motto: "Keep learning, keep building, keep innovating."
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
@@ -56,6 +75,7 @@ motto: "Keep learning, keep building, keep innovating."
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 
   <!-- AI & Data -->
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
@@ -82,8 +102,22 @@ motto: "Keep learning, keep building, keep innovating."
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsvmusabb&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5c2e7&icon_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="155" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rsvmusabb&show_icons=true&theme=tokyonight&hide_border=true&title_color=f5c2e7&icon_color=cba6f7&text_color=cdd6f4&bg_color=181825" height="155" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=rsvmusabb&theme=tokyonight&hide_border=true&ring=cba6f7&fire=f5c2e7&currStreakNum=cdd6f4" height="155" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsvmusabb&layout=compact&theme=tokyonight&hide_border=true&title_color=f5c2e7&text_color=cdd6f4&bg_color=181825" height="155" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsvmusabb&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/ojiisan_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/rsvmusabb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
