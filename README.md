@@ -116,7 +116,7 @@ motto: "Keep learning, keep building, keep innovating."
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://instagram.com/ojiisan_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/muss.ft"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/rsvmusabb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
